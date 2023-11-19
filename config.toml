@@ -19,7 +19,7 @@ googleAnalytics = ""  # add your tracking id
   [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-mail"
-    url = "mailto:martin.bauw@mines-paristech.fr"
+    url = "mailto:bauw.martin@outlook.com"
   [[params.socialIcons]]
     icon = "fab fa-linkedin"
     title = "LinkedIn"

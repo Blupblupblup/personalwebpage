@@ -4,17 +4,29 @@ title = "Martin Bauw"
 
 ## About Me
 
-I'm currently a PhD student in machine learning at [Mines Paris](https://en.wikipedia.org/wiki/Mines_ParisTech) (part of [PSL University](https://en.wikipedia.org/wiki/Paris_Sciences_et_Lettres_University)) and [Thales](https://en.wikipedia.org/wiki/Thales_Group).
+I'm currently a Data Scientist working on computational pathology at [Aignostics](https://www.aignostics.com/) in Berlin. As such, I mostly develop machine learning models and pipelines to run segmentation and classification on whole slide images depicting human tissue with immune cells and cancer.
 
-I'm financed by a [*Cifre-Défense* grant](https://www.defense.gouv.fr/aid/theses/theses-aid-cifre-defense-2022), and my PhD is expected to end in Dec. 2022.
+Before that I was a PhD student in machine learning at [Mines Paris](https://en.wikipedia.org/wiki/Mines_ParisTech) (part of [PSL University](https://en.wikipedia.org/wiki/Paris_Sciences_et_Lettres_University)) and [Thales](https://en.wikipedia.org/wiki/Thales_Group). This research was financed by a [*Cifre-Défense* grant](https://www.anrt.asso.fr/fr/cifre-defense-24859).
 
 ## Research Interest
 
-My current research applies machine learning to radar data.
+My current work applies machine learning to histopathology images.
 
-I'm especially interested in anomaly detection, also called out-of-distribution detection or one-class classification, and machine learning for signal and image processing.
+I'm interested in anomaly detection, also called out-of-distribution detection or one-class classification, and representation learning for signal (Radio, Audio, EEG, ECG) and image processing (satellite, medical).
 
-## Publications
+## Publications & abstracts
+
+A novel, scalable deep learning-based approach to automated quality control of multipleximmunofluorescence images
+
+2024 SITC poster (abstract 1283)
+
+---
+
+[One-class classification for low resolution targets discrimination with limited supervision in pulse Doppler radars](https://www.theses.fr/en/2023UPSLM005)
+
+Thesis defense 18/01/2023
+
+---
 
 [Near OOD detection for low-resolution radar micro-Doppler signatures](https://arxiv.org/abs/2205.07869)
 
